@@ -1,5 +1,9 @@
 Test accounts were created for Ravi as below
-Email Address	Account type	Account used for
 ravi.vaigundla@outlook.com	Microsoft account/Tenant account	Tenant level purchases
 demouser1@ravivaigundlaoutlook.onmicrosoft.com	Global Admin for Azure	used for all other tenant activities
 demouser2@ravivaigundlaoutlook.onmicrosoft.com	Intune Admin	for Intune administration
+Portal links are as below
+  Intune.microsoft.com ---- Intune Portal
+  portal.azure.com          Azure Portal
+  Entra.microsoft.com      Azure Active Directory or Entra ID
+ admin.microsoft.com       Universal portal for all Admin portals and also used for purchasing licenses and trail versions.
