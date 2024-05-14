@@ -1,1 +1,5 @@
-
+Test accounts were created for Ravi as below
+Email Address	Account type	Account used for
+ravi.vaigundla@outlook.com	Microsoft account/Tenant account	Tenant level purchases
+demouser1@ravivaigundlaoutlook.onmicrosoft.com	Global Admin for Azure	used for all other tenant activities
+demouser2@ravivaigundlaoutlook.onmicrosoft.com	Intune Admin	for Intune administration
