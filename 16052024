@@ -1,0 +1,10 @@
+For Androi Enrollment, As a pre-requisite, we must integrate Managed PlayStore into Intune.
+To integrate, login to Intune console --> Devices --> Android Enrolment --> Click on Managed Google Play Store. 
+Now Sign in to your Google account. We can create a new Google account or use an existing Google Account. After you sign in, please provide your organization name, click next, and create.
+Now we are set for Enrolling a device. 
+We have another pre-requisite, ie. Device Enrollment Restrictions
+Device enrollment restrictions are restrictions to enrol the device in Intune; These restrictions can be platform or Device limit restrictions. 
+Device Platform restrictions are required to block certain OS platforms or minimum OS requirements. For example, using this restriction, we can allow only Android and iOS devices to enrol in Intune and block MacOS and Windows devices from enrolling in Intune.
+We can restrict enrollment based on OS versions, such as Android devices with version 10.0 or more.  We can also allow only a few manufacturer's devices to Intune. For example, we can allow only Samsung and Motorola devices to enrol in Intune. The rest of the devices will not be able to enrol.
+As we are using personal Devices, we use BYOD devices. We will allow Android for Work and block Android Device administrators. in device platform restrictions. In the device platform restriction we can also block personal devices from enrolling. 
+Now Enroll a Android device.
